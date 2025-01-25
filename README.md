@@ -42,17 +42,18 @@ Here are some of the projects I've worked on or contributed to:
 
 Feel free to reach out to me if you'd like to collaborate or if you have any questions about my projects!
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Personal Website: [Your Website](https://www.yourwebsite.com)
+- 📧 Email: mohamedyasser-99@hotmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamedyasser-99/
+<!---- 🌐 Personal Website: [Your Website](https://www.yourwebsite.com)--->
 
 ## Contributing
 
 I welcome contributions to any of my projects. If you find any bugs or want to add new features, feel free to fork the repo, make changes, and submit a pull request!
 
-## License
+<!--- ## License
 
-All my projects are open source and available under the [MIT License](LICENSE.md).
+All my projects are open source and available under the [MIT License](LICENSE.md). --->
+
 
 ## Acknowledgments
 
